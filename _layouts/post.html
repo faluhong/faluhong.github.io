@@ -1,47 +1,29 @@
-{% include header.html %}
-
-<div class="container container-left">
-    <div class="row">
-        <div class="col-md-3 hidden-xs">
-            {% include sidebar.html %}
-        </div>
-        <div class="col-md-9">
-          <div class="article">
-            <div class="well">
-                <h1><a href="{{ site.baseurl}}{{ page.url }}">{{ page.date | date: "%b %-d, %Y" }} - {{ page.title }}</a></h1>
-            {% if site.comments and page.comments %}
-                {% if site.disqus != '' %}
-                <p class="author"><a href="#disqus_thread" data-disqus-identifier="{{ page.url | slugify }}">Comments</a></p>
-                {% elsif site.isso != '' %}
-                <p class="author"><a href="{{ site.baseurl }}{{ page.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>
+---
+layout: default
+---
+<div class="col-sm-12">
+    <div class="page">
+    	<div class="page-title">
+    		{{ page.title }}
+    		<div class="meta">    			
+                {% if site.owner.name %}
+                By {{site.owner.name}},
                 {% endif %}
-            {% endif %}
-            <div class="post-content">
+    			<time class="timeago" datetime="{{ page.date }}">{{ page.date |  date: "%A %-d %B %Y" }}</time>,
+    			<a href="{{ page.url | prepend: site.url }}#disqus_thread">0 <i class="fa fa-comments-o fa-lg"></i></a>
+    			comments.
+    		</div>
+    	</div>
+        <div class="page-content">
             {{ content }}
-            </div>
-            {% if page.comments %}
-                {% if site.disqus != '' %}
-            <div id="disqus_thread">
-                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            </div>
-                {% elsif site.isso != '' %}
-                <section id="isso-thread"></section>
-                {% endif %}
-            {% endif %}
-            </div>
-          </div>
-          <div class="pagination">
-              {% if page.next %}
-                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">Newer Post</a>
-              {% endif %}
-              {% if page.previous %}
-                <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
-              {% endif %}
-          </div>
+            <!-- Share & Comments -->
+            {% include scripts/share.html %}            
         </div>
     </div>
 </div>
-
-{% include disqus-comments.html %}
-{% include footer.html %}
+<script>
+    $(".page-preview-icon").hover(function(){
+        $(this).parents(".page-nav").css("z-index","5000");
+    });
+    {% include scripts/disqus.html %}
+</script>
