@@ -1,11 +1,9 @@
-        <!-- Other JavaScripts -->
-        <script src="{{ "/assets/js/bootstrap.min.js" | prepend: site.url }}"></script>        
-        <script src="{{ "/assets/js/jquery.timeago.js" | prepend: site.url }}"></script>
-        <script>
-          {% include scripts/google-analytics.html %}
-          {% include scripts/page-effects.html %}
-          {% include scripts/sidebar.html %}
-          {% include scripts/timeago.html %}
-        </script>
-    </body>
-</html>
+<div class="container">
+  <footer>
+    <p class="text-muted credit">
+      &copy; {{ site.time | date: '%Y' }} {{ site.name }} &middot;
+      <a href="https://github.com/arnp/herring-cove"> Herring Cove for Jekyll </a>
+      {{ site.time }}
+    </p>
+  </footer>
+</div>
