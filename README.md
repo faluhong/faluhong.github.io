@@ -1,4 +1,4 @@
-## Xinpeng Chen's Blog
+## Falu Hong's Blog
 
 Welcome to my personal blog.
 
