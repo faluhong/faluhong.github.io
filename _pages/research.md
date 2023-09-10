@@ -50,7 +50,7 @@ author_profile: true
 * Related publication: [Hong et al., 2008](https://www.sciencedirect.com/science/article/pii/S0924271618301710).
 
 **Hourly RMSEs of the selcted nine four-parameter DTC models**
-![image_four_parameter_DTC](/images/MSG-SEVIRI_four_points.png)
+![image_four_parameter_DTC](/images/MSG-SEVIRI_four_points.png){:height="85%" width="85%"}
 
 
 
