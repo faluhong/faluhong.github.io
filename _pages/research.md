@@ -1,15 +1,14 @@
 ---
 layout: archive
-# title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
 
 
-# Research Interests
+<!-- # Research Interests -->
 
 **Remote sensing, land use and land cover change, land change model, urbanization, impervious surface, machine learning, urban heat island, land surface temperature**
-<br>
 <br>
 <br>
 
@@ -35,6 +34,7 @@ author_profile: true
 * Related publication: [Framework: Hong et al., 2021](https://www.sciencedirect.com/science/article/pii/S0034425721003321); [Products: Hong et a., 2022](https://essd.copernicus.org/articles/14/3091/2022/)
 
 **Flowchart of the IADTC framework**
+<br>
 ![IADTC framework](/images/2021_daily_mean_LST_framework.jpg){:height="65%" width="65%"}
 <br>
 
