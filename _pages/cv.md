@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[CV download](https://github.com/faluhong/faluhong.github.io/blob/master/files/CV_Falu%20Hong_20230912_brief.pdf)
 
-[CV download]((https://github.com/faluhong/faluhong.github.io/blob/master/files/CV_Falu Hong_20230912_brief.pdf))
+
 
 <!---
 # Education

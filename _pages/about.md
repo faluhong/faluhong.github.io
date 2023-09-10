@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Short biography"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Short biography
-======
 I am the Ph.D. candidate at University of Connecticut (UConn), working at Global Environmental Remote Sensing Laboratory ([GERS lab](https://gerslab.uconn.edu/)) led by [Dr. Zhe Zhu](https://nre.uconn.edu/zhe-zhu/). My research focuses on land cover classification, subpixel analysis, and land change modeling. Before joining the GERS lab, I worked with [Dr. Wenfeng Zhan](https://scholar.google.com.hk/citations?user=-VRcMboAAAAJ&hl=en) and majored in the theory and application of thermal remote sensing, focusing on the annual and diurnal land surface temperature dynamics, as well as the urban heat island analysis. In my spare time, I enjoy playing tennis, badminton and hiking.
 
 <!---
