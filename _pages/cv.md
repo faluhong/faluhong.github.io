@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV download](https://faluhong.github.io/files/CV_Falu_Hong_20230912_brief.pdf)
+[CV download](https://faluhong.github.io/files/CV_Falu_Hong_latest.pdf)
 
 
 
