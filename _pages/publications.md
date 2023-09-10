@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 # Publication
 For the lastest publication list, please refer to my [google scholar page](https://scholar.google.com/citations?user=BokVjCUAAAAJ&hl=en)
 
