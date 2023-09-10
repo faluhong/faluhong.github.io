@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020 - present,  Ph.D. in Natural Resources, University of Connecticut, USA
+* 2013 - 2017      B.S. in Geographic Information Science, Nanjing University, China
+* 2017 - 2020      M.S. in Cartography and Geographic Information System, Nanjing University, China
 
 Work experience
 ======
