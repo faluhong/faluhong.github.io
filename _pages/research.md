@@ -30,8 +30,8 @@ author_profile: true
 * Design a framework (IADTC framework) to generate physically true daily mean land surface temperature by combining the diurnal and annual temperature cycle models.
 * Generate global daily mean LST from 2003 to 2019 and characterize the global LST trend.
 * Validate the generated products with widely-distributed *in-situ* measurements. 
-* The code of the IADTC framework is available at: [IADTC github](https://github.com/faluhong/IADTC-framework). The generated dataset is freely available at [zenodo](https://zenodo.org/record/6287052)
-* Related publication: [Framework: Hong et al., 2021](https://www.sciencedirect.com/science/article/pii/S0034425721003321); [Products: Hong et a., 2022](https://essd.copernicus.org/articles/14/3091/2022/)
+* The code of the IADTC framework is available at: [IADTC github](https://github.com/faluhong/IADTC-framework). The generated dataset is freely available at [zenodo](https://zenodo.org/record/6287052).
+* Related publication: [Framework: Hong et al., 2021](https://www.sciencedirect.com/science/article/pii/S0034425721003321); [Products: Hong et a., 2022](https://essd.copernicus.org/articles/14/3091/2022/).
 
 **Flowchart of the IADTC framework**
 <br>
@@ -46,8 +46,8 @@ author_profile: true
 * Obtain nine representative four-parameter DTC models with a set of parameter-reduction strategies.
 * Comprehensive assessment of the DTC models with geostationary satellite data and in-situ measurements.
 * Provide the parameter-reduction order and the best-performance four-parameter DTC model.
-* The examples of the DTC models are available at: [DTC github](https://github.com/faluhong/ATC-and-DTC-Code)
-* Related publication: [Hong et al., 2008](https://www.sciencedirect.com/science/article/pii/S0924271618301710)
+* The examples of the DTC models are available at: [DTC github](https://github.com/faluhong/ATC-and-DTC-Code).
+* Related publication: [Hong et al., 2008](https://www.sciencedirect.com/science/article/pii/S0924271618301710).
 
 **Hourly RMSEs of the selcted nine four-parameter DTC models**
 ![image_four_parameter_DTC](/images/MSG-SEVIRI_four_points.png)
