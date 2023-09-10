@@ -39,6 +39,7 @@ author_profile: true
 <br>
 
 **Global LST trend from 2003 to 2019 using the cloud-free MODIS LST and generated IADTC products**
+<br>
 ![IADTC framework](/images/Global_LST_trend_2003_2019.jpg){:height="70%" width="70%"}
 
 
