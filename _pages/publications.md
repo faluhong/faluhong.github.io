@@ -19,7 +19,7 @@ author_profile: true
 
 [9]	**Hong, F.**, Zhan, W., Göttsche, F.-M., Lai, J., Liu, Z., Hu, L., Fu, P., Huang, F., Li, J., Li, H., & Wu, H. (2021). A simple yet robust framework to estimate accurate daily mean land surface temperature from thermal observations of tandem polar orbiters. Remote Sensing of Environment, 264, 112612. [[pdf]](https://faluhong.github.io/files/2021_daily_mean_LST_rse.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271618301710) 
 
-[8]	Jiang, L., Zhan, W., Hu, L., Huang, F., **Hong, F.**, Liu, Z., Lai, J., Wang, C. (2021). Assessment of different kernel-driven models for daytime urban thermal radiation directionality simulation. Remote Sensing of Environment, 263, 112562. [[pdf]](https://faluhong/faluhong.github.io/files/2021_Assessment_kernel_driven_model_rse.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425721002820) 
+[8]	Jiang, L., Zhan, W., Hu, L., Huang, F., **Hong, F.**, Liu, Z., Lai, J., Wang, C. (2021). Assessment of different kernel-driven models for daytime urban thermal radiation directionality simulation. Remote Sensing of Environment, 263, 112562. [[pdf]](https://faluhong.github.io/files/2021_Assessment_kernel_driven_model_rse.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425721002820) 
 
 [7]	Li, J., Zhan, W., **Hong, F.**, Lai, J., Dong, P., Liu, Z., Wang, C., Huang, F., Li, L., Wang, C., Fu, Y. (2021). Similarities and disparities in urban local heat islands responsive to regular-, stable-, and counter-urbanization: A case study of Guangzhou, China. Building and Environment, 199, 107935.  [[pdf]](https://faluhong.github.io/files/2021_Urbanzation_SUHII_B&E.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0360132321003395) 
 
@@ -32,7 +32,7 @@ author_profile: true
 [4]	Liu, Z., Zhan, W., Lai, J., **Hong, F.**, Quan, J., Bechtel, B., Huang, F., Zou, Z. (2019). Balancing prediction accuracy and generalization ability: A hybrid framework for modelling the annual dynamics of satellite-derived land surface temperatures. ISPRS Journal of Photogrammetry and Remote Sensing, 151, 189-206. [[pdf]](https://faluhong.github.io/files/2019_ATCE2_isprs.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271619300826)
 
 ## 2018
-[3]	**Hong, F.**, Zhan, W., Göttsche, F.M., Liu, Z., Zhou, J., Huang, F., Lai, J., Li, M. (2018). Comprehensive assessment of four-parameter diurnal land surface temperature cycle models under clear-sky. ISPRS Journal of Photogrammetry and Remote Sensing, 142, 190-204. [[pdf]](https:///faluhong.github.io/files/2018_fpd_isprs_compressed.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271619300826)
+[3]	**Hong, F.**, Zhan, W., Göttsche, F.M., Liu, Z., Zhou, J., Huang, F., Lai, J., Li, M. (2018). Comprehensive assessment of four-parameter diurnal land surface temperature cycle models under clear-sky. ISPRS Journal of Photogrammetry and Remote Sensing, 142, 190-204. [[pdf]](https:///faluhong.github.io/files/2018_fpd_isprs_compressed.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271618301710)
 
 [2]	Zou, Z., Zhan, W., Liu, Z., Bechtel, B., Gao, L., **Hong, F.**, Huang, F., Lai, J. (2018). Enhanced modeling of annual temperature cycles with temporally discrete remotely sensed thermal observations. Remote Sensing, 10(4), 650. [[pdf]](https://faluhong.github.io/files/2019_ATCE1_remote%20sensing_compressed.pdf) [[link]](https://www.mdpi.com/2072-4292/10/4/650/htm)
 
