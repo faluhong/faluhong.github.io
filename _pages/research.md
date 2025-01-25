@@ -16,21 +16,20 @@ author_profile: true
 ## *Current projects for PhD*
 ### [1] Decoding primary forest (PF) change in Haiti and the Dominican Republic 
 * Use all available Landsat data and COLD (COtinous Monitoring of Land Disturbance) algorithm to map PF change in Haiti and the Dominican Republic.
-* Comprehensively compare the PF change between Haiti and the Dominican Republic.
+* Comprehensively compare the PF status between Haiti and the Dominican Republic, including change inside and outside protected area, PF topography characteristics and fragmentation level.
 * Quantify the PF loss area caused by fire, tree-cutting, and hurricanes.
 * Related [Publication](https://www.sciencedirect.com/science/article/pii/S0034425724006163), [Code](https://github.com/faluhong/hispaniola_land_cover_mapping), and [Dataset](https://doi.org/10.6084/m9.figshare.28100408).
 * The generated map can be view interactively in Google Earth Engine ([Hispaniola Land Cover](https://gers.users.earthengine.app/view/hispaniola-lc)).
-*<br>
 <br>
 [![GEE Hispaniola LC](/images/GEE_Hispaniola_LC.jpg)](https://gers.users.earthengine.app/view/hispaniola-lc)
 <br>
 <br>
 **Flowchart of mapping primary forest in Haiti and the Dominican Republic**
 <br>
-![Hispaniola LC](/images/Hispaniola_LC_flowchart.jpg)
+![Hispaniola LC](/images/Hispaniola_LC_flowchart.jpg){:height="85%" width="85%"}
 <br>
 
-### [2] Estimation the biodiversity extinction risk using land change simulation
+### [2] Estimate the biodiversity extinction risk using land change simulation
 * Simulate the historical and future land change in Haiti and the Dominican Republic.
 * Link the land change with the biodiversity extinction risk.
 
