@@ -21,7 +21,7 @@ author_profile: true
 * Related [Publication](https://www.sciencedirect.com/science/article/pii/S0034425724006163), [Code](https://github.com/faluhong/hispaniola_land_cover_mapping), and [Dataset](https://doi.org/10.6084/m9.figshare.28100408).
 * The generated map can be view interactively in Google Earth Engine ([Hispaniola Land Cover](https://gers.users.earthengine.app/view/hispaniola-lc)).
 *<br>
-![GEE Hispaniola LC](/images/GEE_Hispaniola_LC.jpg)(https://gers.users.earthengine.app/view/hispaniola-lc){:height="65%" width="65%"}
+[![GEE Hispaniola LC](/images/GEE_Hispaniola_LC.jpg)](https://gers.users.earthengine.app/view/hispaniola-lc)
 <br>
 
 ### [2] Estimation the biodiversity extinction risk using land change simulation
