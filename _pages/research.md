@@ -24,6 +24,7 @@ author_profile: true
 <br>
 [![GEE Hispaniola LC](/images/GEE_Hispaniola_LC.jpg)](https://gers.users.earthengine.app/view/hispaniola-lc)
 <br>
+<br>
 **Flowchart of mapping primary forest in Haiti and the Dominican Republic**
 <br>
 ![Hispaniola LC](/images/Hispaniola_LC_flowchart.jpg)
