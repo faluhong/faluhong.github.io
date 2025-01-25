@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-### For the lastest publication list, please refer to my [google scholar page](https://scholar.google.com/citations?user=BokVjCUAAAAJ&hl=en)
+### For the lastest publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=BokVjCUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Falu-Hong/).
+
+## 2025
+[14] **Hong, F.**, Hedges, S. B., Yang, Z., Suh, J. W., Qiu, S., Timyan, J., & Zhu, Z. (2025). Decoding primary forest changes in Haiti and the Dominican Republic using Landsat time series. Remote Sensing of Environment, 318, 114590. [[pdf]](https://faluhong.github.io/files/2025_primary_forest_Hispaniola_RSE.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425724006163) 
 
 ## 2022
 [13]	**Hong, F.**, Zhan, W., Göttsche, F. M., Liu, Z., Dong, P., Fu, H., Hunag, F., Zhang, X. (2022). A global dataset of spatiotemporally seamless daily mean land surface temperatures: generation, validation, and analysis. *Earth System Science Data*, 14(7), 3091-3113. [[pdf]](https://faluhong.github.io/files/2022_global_daily_mean_LST_ESSD.pdf) [[link]](https://essd.copernicus.org/articles/14/3091/2022/) 
