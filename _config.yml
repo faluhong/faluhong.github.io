@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Falu Hong"
   avatar           : "profile.png"
-  bio              : "Ph.D. at UConn"
+  bio              : "Ph.D. candidate at UConn"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://github.com/faluhong"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/falu-hong-a105b1129/"
   orcid            : "https://orcid.org/0000-0002-2383-1670"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "falu_hong"
+  x                : "falu_hong"
   vine             :
   weibo            :
   xing             :
