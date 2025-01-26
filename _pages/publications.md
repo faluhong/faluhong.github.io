@@ -8,12 +8,12 @@ author_profile: true
 ### For the lastest publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=BokVjCUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Falu-Hong/).
 
 ## 2025
-[14] **Hong, F.**, Hedges, S. B., Yang, Z., Suh, J. W., Qiu, S., Timyan, J., & Zhu, Z. (2025). Decoding primary forest changes in Haiti and the Dominican Republic using Landsat time series. Remote Sensing of Environment, 318, 114590. [[pdf]](https://faluhong.github.io/files/2025_primary_forest_Hispaniola_RSE.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425724006163) 
+[14] **Hong, F.**, Hedges, S. B., Yang, Z., Suh, J. W., Qiu, S., Timyan, J., & Zhu, Z. (2025). Decoding primary forest changes in Haiti and the Dominican Republic using Landsat time series. _Remote Sensing of Environment_, 318, 114590. [[pdf]](https://faluhong.github.io/files/2025_primary_forest_Hispaniola_RSE.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425724006163) 
 
 ## 2022
 [13]	**Hong, F.**, Zhan, W., Göttsche, F. M., Liu, Z., Dong, P., Fu, H., Hunag, F., Zhang, X. (2022). A global dataset of spatiotemporally seamless daily mean land surface temperatures: generation, validation, and analysis. *Earth System Science Data*, 14(7), 3091-3113. [[pdf]](https://faluhong.github.io/files/2022_global_daily_mean_LST_ESSD.pdf) [[link]](https://essd.copernicus.org/articles/14/3091/2022/) 
 
-[12]	Liu, Z., Zhan, W., Lai, J., Bechtel, B., Lee, X., **Hong, F.**, Li, L., Huang, F., Li, J. (2022). Taxonomy of seasonal and diurnal clear-sky climatology of surface urban heat island dynamics across global cities. *ISPRS Journal of Photogrammetry and Remote Sensing*, 187, 14-33. [[pdf]](https://faluhong.github.io/files/2022_taxonomy_SUHI_isprs.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271622000612) 
+[12]	Liu, Z., Zhan, W., Lai, J., Bechtel, B., Lee, X., **Hong, F.**, Li, L., Huang, F., Li, J. (2022). Taxonomy of seasonal and diurnal clear-sky climatology of surface urban heat island dynamics across global cities. _ISPRS Journal of Photogrammetry and Remote Sensing_, 187, 14-33. [[pdf]](https://faluhong.github.io/files/2022_taxonomy_SUHI_isprs.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271622000612) 
 
 ## 2021
 [11] Du, H., Zhan, W., Liu, Z., Li, J., Li, L., Lai, J., Miao, S., Huang, F., Wang, C., Wang, C., Fu, H., Jiang L.,** Hong, F.**, Jiang, S. (2021). Simultaneous investigation of surface and canopy urban heat islands over global cities. *ISPRS Journal of Photogrammetry and Remote Sensing*, 181, 67-83. [[pdf]](https://faluhong.github.io/files/2021_SUHI_CUHI_isprs.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271621002355) 
