@@ -103,7 +103,8 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "falu-hong-a105b1129"
-#  twitter          : "falu_hong"
+  x                : "falu_hong"
+  twitter          : "falu_hong"
   orcid            : "https://orcid.org/0000-0002-2383-1670"
   pinterest        :
   soundcloud       :
@@ -115,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  x                : "falu_hong"
+
 
 
 # Reading Files
