@@ -8,11 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-My name is Falu Hong (洪发路). I am a Ph.D. candidate at University of Connecticut (UConn), working at Global Environmental Remote Sensing Laboratory ([GERS lab](https://gerslab.cahnr.uconn.edu/)) led by [Dr. Zhe Zhu](https://nre.uconn.edu/zhe-zhu/). 
-My research focuses on using satellite observations (remote sensing) to monitor and model the Earth's land surface dynamics, such as deforestation and urbanization. You can check the [Research](https://faluhong.github.io/research/) page for more details.
-Before joining the GERS lab, I worked with [Dr. Wenfeng Zhan](https://scholar.google.com.hk/citations?user=-VRcMboAAAAJ&hl=en) and majored in the theory and application of thermal remote sensing, focusing on the annual and diurnal land surface temperature dynamics, as well as the urban heat island analysis. 
+My name is Falu Hong (洪发路). I am a Ph.D. candidate at [Department of Natural Resources and the Environment](https://nre.uconn.edu/), University of Connecticut (UConn), 
+working at Global Environmental Remote Sensing Laboratory ([GERS lab](https://gerslab.cahnr.uconn.edu/)) led by [Dr. Zhe Zhu](https://nre.uconn.edu/zhe-zhu/).
+<br><br>
+My research focuses on using satellite observations (remote sensing) to monitor and model the Earth's land surface dynamics, such as deforestation and urbanization. 
+You can check the [Research](https://faluhong.github.io/research/) page for more details.
+<br><br>
+Before joining the GERS lab, I worked with [Dr. Wenfeng Zhan](https://scholar.google.com.hk/citations?user=-VRcMboAAAAJ&hl=en) and majored in the theory and application of thermal remote sensing, 
+focusing on the annual and diurnal land surface temperature dynamics, as well as the urban heat island analysis.
+<br><br>
 In my spare time, I enjoy playing tennis, badminton and hiking.
-
+<br>
+<br><br>
 last updated on: Jan/25/2025
 
 <!---
