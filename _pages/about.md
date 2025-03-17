@@ -20,7 +20,7 @@ focusing on the annual and diurnal land surface temperature dynamics, as well as
 In my spare time, I enjoy playing tennis, badminton and hiking.
 <br>
 <br><br>
-last updated on: Jan/25/2025
+last updated on: Mar/17/2025
 
 <!---
 How to edit your site's GitHub repository
