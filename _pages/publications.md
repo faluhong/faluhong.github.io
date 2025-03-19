@@ -20,7 +20,7 @@ author_profile: true
 
 [10] Lai, J., Zhan, W., Quan, J., Liu, Z., Li, L., Huang, F., **Hong, F.**, Liao, W. (2021). Reconciling debates on the controls on surface urban heat island intensity: Effects of scale and sampling. *Geophysical Research Letters*, 48(19), 2021GL094485. [[pdf]](https://faluhong.github.io/files/2021_Reconcile_SUHII_factor_GRL.pdf) [[link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094485) 
 
-[9]	**Hong, F.**, Zhan, W., Göttsche, F.-M., Lai, J., Liu, Z., Hu, L., Fu, P., Huang, F., Li, J., Li, H., & Wu, H. (2021). A simple yet robust framework to estimate accurate daily mean land surface temperature from thermal observations of tandem polar orbiters. *Remote Sensing of Environment*, 264, 112612. [[pdf]](https://faluhong.github.io/files/2021_daily_mean_LST_rse.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271618301710) 
+[9]	**Hong, F.**, Zhan, W., Göttsche, F.-M., Lai, J., Liu, Z., Hu, L., Fu, P., Huang, F., Li, J., Li, H., & Wu, H. (2021). A simple yet robust framework to estimate accurate daily mean land surface temperature from thermal observations of tandem polar orbiters. *Remote Sensing of Environment*, 264, 112612. [[pdf]](https://faluhong.github.io/files/2021_daily_mean_LST_rse.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425721003321) 
 
 [8]	Jiang, L., Zhan, W., Hu, L., Huang, F., **Hong, F.**, Liu, Z., Lai, J., Wang, C. (2021). Assessment of different kernel-driven models for daytime urban thermal radiation directionality simulation. *Remote Sensing of Environment*, 263, 112562. [[pdf]](https://faluhong.github.io/files/2021_Assessment_kernel_driven_model_rse.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425721002820) 
 
