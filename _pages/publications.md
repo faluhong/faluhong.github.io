@@ -16,7 +16,7 @@ author_profile: true
 [12]	Liu, Z., Zhan, W., Lai, J., Bechtel, B., Lee, X., **Hong, F.**, Li, L., Huang, F., Li, J. (2022). Taxonomy of seasonal and diurnal clear-sky climatology of surface urban heat island dynamics across global cities. _ISPRS Journal of Photogrammetry and Remote Sensing_, 187, 14-33. [[pdf]](https://faluhong.github.io/files/2022_taxonomy_SUHI_isprs.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271622000612) 
 
 ## 2021
-[11] Du, H., Zhan, W., Liu, Z., Li, J., Li, L., Lai, J., Miao, S., Huang, F., Wang, C., Wang, C., Fu, H., Jiang L.,** Hong, F.**, Jiang, S. (2021). Simultaneous investigation of surface and canopy urban heat islands over global cities. *ISPRS Journal of Photogrammetry and Remote Sensing*, 181, 67-83. [[pdf]](https://faluhong.github.io/files/2021_SUHI_CUHI_isprs.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271621002355) 
+[11] Du, H., Zhan, W., Liu, Z., Li, J., Li, L., Lai, J., Miao, S., Huang, F., Wang, C., Wang, C., Fu, H., Jiang L.,**Hong, F.**, Jiang, S. (2021). Simultaneous investigation of surface and canopy urban heat islands over global cities. *ISPRS Journal of Photogrammetry and Remote Sensing*, 181, 67-83. [[pdf]](https://faluhong.github.io/files/2021_SUHI_CUHI_isprs.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0924271621002355) 
 
 [10] Lai, J., Zhan, W., Quan, J., Liu, Z., Li, L., Huang, F., **Hong, F.**, Liao, W. (2021). Reconciling debates on the controls on surface urban heat island intensity: Effects of scale and sampling. *Geophysical Research Letters*, 48(19), 2021GL094485. [[pdf]](https://faluhong.github.io/files/2021_Reconcile_SUHII_factor_GRL.pdf) [[link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094485) 
 
