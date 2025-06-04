@@ -15,29 +15,31 @@ author_profile: true
 # Research Experiences
 ## *Current projects for PhD*
 ### [1] Decoding primary forest (PF) change in Haiti and the Dominican Republic 
-* Use all available Landsat data and COLD (COtinous Monitoring of Land Disturbance) algorithm to map PF change in Haiti and the Dominican Republic.
+* Use all available Landsat data and COLD (COtinous monitoring of Land Disturbance) algorithm to map PF change in Haiti and the Dominican Republic.
 * Comprehensively compare the PF status between Haiti and the Dominican Republic, including PF change inside and outside protected areas, PF topography characteristics and fragmentation level.
-* Quantify the PF loss area caused by fire, tree-cutting, and hurricanes.
+* Identify the primary PF loss drivers and quantify the PF loss area caused by fire, tree-cutting, hurricanes, and landslides. 
 * Related [Publication](https://www.sciencedirect.com/science/article/pii/S0034425724006163), [Code](https://github.com/faluhong/hispaniola_land_cover_mapping), and [Dataset](https://doi.org/10.6084/m9.figshare.28100408).
 * The generated map can be view interactively in Google Earth Engine ([Hispaniola Land Cover](https://gers.users.earthengine.app/view/hispaniola-lc)).
 <br>
 <br>
-[![GEE Hispaniola LC](/images/GEE_Hispaniola_LC.jpg)](https://gers.users.earthengine.app/view/hispaniola-lc)
+[![GEE Hispaniola LC](/images/GEE_UI.gif)](https://gers.users.earthengine.app/view/hispaniola-lc)
 <br>
 <br>
 **Flowchart of mapping primary forest in Haiti and the Dominican Republic**
 <br>
-![Hispaniola LC](/images/Hispaniola_LC_flowchart.jpg){:height="85%" width="85%"}
+![Hispaniola LC_flowchart](/images/Hispaniola_LC_flowchart.jpg){:height="85%" width="85%"}
 <br>
 
 ### [2] Estimate the biodiversity extinction risk using land change simulation
 * Simulate the historical and future land change in Haiti and the Dominican Republic.
-* Link the land change with the biodiversity extinction risk.
+* Link the primary forest change with the area of habitat change for amphibian species.
+* Quantify the biodiversity extinction risk and protected area effectiveness. 
 
-### [3] Continuous mapping of impervious surface percentage (ISP)
-* Employ massive very-high-resolution land cover data to create the ISP map for training. 
-* Train the convolution neural network with the ISP map and COLD algorithm outputs.
-* Generate the 30-meter resolution ISP dataset over an extensive scale.
+### [3] CONUS-wide subpixel impervious surface percentage (ISP) dynamics: Mapping and spatiotemporal trends
+* Employ massive very-high-resolution land cover data to create the ISP map for training.
+* Train the deep learning model with the ISP map and Continuous Change Detection outputs.
+* Generate the 30-meter resolution subpixel-level ISP dataset for the conterminous United States (CONUS).
+* Analyze the spatiotemporal changes of CONUS impervious surface during the past four decades.
 
 ## *Previous projects for Master*
 ### [4] Generation of global seamless daily mean land surface temperature (LST) dataset
