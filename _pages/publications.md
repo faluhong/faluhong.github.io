@@ -8,6 +8,10 @@ author_profile: true
 ### For the lastest publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=BokVjCUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Falu-Hong/).
 
 ## 2025
+[15] Qiu, S., Zhu, Z., Yang, X., Woodcock, C. E., Fahey, R. T., Stehman, S., Zhang, Y., Cullerton, M., Grinstead, A., **Hong, F.***., Song, K., Suh, J. W., Li, T., Ren, W., & Nemani, R. R. (2025). A shift from human-directed to undirected wild land disturbances in the USA. Nature Geoscience, 18(10), 989-996. 
+[[pdf]](https://faluhong.github.io/files/2025_US_disturbance_agent_Nature_Geoscience.pdf) 
+[[link]](https://www.nature.com/articles/s41561-025-01792-3) 
+
 [14] **Hong, F.***, Hedges, S. B., Yang, Z., Suh, J. W., Qiu, S., Timyan, J., & Zhu, Z. (2025). Decoding primary forest changes in Haiti and the Dominican Republic using Landsat time series. _Remote Sensing of Environment_, 318, 114590. [[pdf]](https://faluhong.github.io/files/2025_primary_forest_Hispaniola_RSE.pdf) [[link]](https://www.sciencedirect.com/science/article/pii/S0034425724006163) 
 
 ## 2022

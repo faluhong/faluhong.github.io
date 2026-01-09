@@ -13,7 +13,7 @@ author_profile: true
 <br>
 
 # Research Experiences
-## *Current projects for PhD*
+## *Projects during PhD stage*
 ### [1] Decoding primary forest (PF) change in Haiti and the Dominican Republic 
 * Use all available Landsat data and COLD (COtinous monitoring of Land Disturbance) algorithm to map PF change in Haiti and the Dominican Republic.
 * Comprehensively compare the PF status between Haiti and the Dominican Republic, including PF change inside and outside protected areas, PF topography characteristics and fragmentation level.
@@ -41,7 +41,7 @@ author_profile: true
 * Generate the 30-meter resolution subpixel-level ISP dataset for the conterminous United States (CONUS).
 * Analyze the spatiotemporal changes of CONUS impervious surface during the past four decades.
 
-## *Previous projects for Master*
+## *Projects during Master*
 ### [4] Generation of global seamless daily mean land surface temperature (LST) dataset
 * Enhancement of annual temperature cycle model by combining reanalysis data.
 * Design a framework (IADTC framework) to generate physically true daily mean land surface temperature by combining the diurnal and annual temperature cycle models.
