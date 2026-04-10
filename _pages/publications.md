@@ -7,6 +7,13 @@ author_profile: true
 
 ### For the lastest publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=BokVjCUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Falu-Hong/).
 
+## 2026
+[16] Li, T., Wang, Z., Kyba, C. C. M., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., 
+Kuester, T., Fragkias, M., Chen, X., Meyer, T. H., Rittenhouse, C. D., Tai, X., Cullerton, M., 
+**Hong, F.**, Grinstead, A., Song, K., Suh, J. W., Yang, X., Kalb, V. L., Deng, C., & Zhu, Z. (2026). 
+Satellite imagery reveals increasing volatility in human night-time activity. Nature, 652, 379–386. [[pdf]](https://faluhong.github.io/files/2026_Global_ALAN_changes_Nature.pdf) 
+[[link]](https://www.nature.com/articles/s41586-026-10260-w) 
+
 ## 2025
 [15] Qiu, S., Zhu, Z., Yang, X., Woodcock, C. E., Fahey, R. T., Stehman, S., Zhang, Y., Cullerton, M., Grinstead, A., **Hong, F.**, Song, K., Suh, J. W., Li, T., Ren, W., & Nemani, R. R. (2025). A shift from human-directed to undirected wild land disturbances in the USA. Nature Geoscience, 18(10), 989-996. 
 [[pdf]](https://faluhong.github.io/files/2025_US_disturbance_agent_Nature_Geoscience.pdf) 
