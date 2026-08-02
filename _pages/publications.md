@@ -8,6 +8,13 @@ author_profile: true
 ### For the lastest publication list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=BokVjCUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Falu-Hong/).
 
 ## 2026
+[17] Song, K., Knighton, J., Qiu, S., Yang, X., Suh, J. W., Tavares, J. V., 
+Liu, Y., Tai, X., Fahey, R., Neigh, C. S. R., Callahan, R., Hong, F., Li, T., Grinstead, A., Ren, W., 
+Witharana, C., Hedges, S. B., Yang, Z., Leite, R. V., Bittencourt, P. R. L., & Zhu, Z. (2026). 
+Physiological fidelity of a satellite-derived forest resilience indicator in the Amazon. 
+Nature Ecology & Evolution. [[pdf]](https://faluhong.github.io/files/2026_TAC_validation_Nature_Ecology_Evolution.pdf) 
+[[link]](https://www.nature.com/articles/s41559-026-03116-z) 
+
 [16] Li, T., Wang, Z., Kyba, C. C. M., Román, M. O., Seto, K. C., Yang, Y., Qiu, S., 
 Kuester, T., Fragkias, M., Chen, X., Meyer, T. H., Rittenhouse, C. D., Tai, X., Cullerton, M., 
 **Hong, F.**, Grinstead, A., Song, K., Suh, J. W., Yang, X., Kalb, V. L., Deng, C., & Zhu, Z. (2026). 
